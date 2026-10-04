@@ -2,6 +2,7 @@
 
 Experimental video-based lower-limb kinematics software for research,
 education, and method development.
+You can upload single or dual videos from smartphone. When selecting dual videos, raising arms gesture is used to determine cut-off time/frame. 
 
 ## Clinical angle convention
 
