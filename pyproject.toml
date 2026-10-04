@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vmotionlab-clinical-angles"
+version = "4.2.1"
+description = "VMotionLab V4.2.1 clinical lower-limb angle conventions"
+requires-python = ">=3.11,<3.14"
+readme = "README.md"
+authors = [{ name = "Syifa Fauziah" }]
+
+[tool.setuptools.packages.find]
+where = ["src"]
