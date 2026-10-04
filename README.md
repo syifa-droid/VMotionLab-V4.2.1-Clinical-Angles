@@ -44,18 +44,6 @@ Knee:  flexion +, hyperextension -
 Ankle: dorsiflexion +, plantarflexion -
 ```
 
-## What should not be committed
-
-Do not commit:
-- participant videos or identifiable participant information;
-- participant landmark or motion CSV files;
-- the packaged `_internal` Python runtime;
-- Windows EXE/MSI builds;
-- large RTMPose/YOLOX model files.
-
-Desktop installers should be attached to a **GitHub Release** rather than kept
-inside the source repository.
-
 ## Scientific status
 
 VMotionLab is experimental research/education software. Numerical outputs
