@@ -62,7 +62,26 @@ VMotionLab is experimental research/education software. Numerical outputs
 should not be treated as validated clinical ground truth without comparison
 against an appropriate synchronized reference system.
 
+It is not supplied as a validated medical device and should not be used for
+autonomous clinical diagnosis, treatment decisions, or direct patient-care
+decisions.
+
 ## License
 
-No open-source license has been selected yet. Choose a license before treating
-the repository as open-source.
+VMotionLab V4.2.1 is **source-available for restricted research and educational
+use** under the [VMotionLab Research and Educational Use License](LICENSE).
+
+In summary:
+
+- non-commercial research, education, teaching, and academic evaluation are
+  permitted;
+- source modification is permitted for those purposes;
+- redistribution is permitted only under the same research/educational
+  restrictions and with attribution;
+- commercial use, resale, paid commercial services, and incorporation into
+  commercial products require separate written permission;
+- clinical deployment or medical-device use requires separate written
+  permission, independent validation, and any required regulatory review.
+
+This is **not an OSI-approved open-source license**. See `LICENSE` for the
+complete terms.
